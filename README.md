@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- figma design link ** https://www.figma.com/file/qr2ysZZ2KNj4QV2xOZCzfI/All-Designs?type=design&node-id=0%3A1&mode=design&t=ZHsv1ELPFtKP5ibz-1 **
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
